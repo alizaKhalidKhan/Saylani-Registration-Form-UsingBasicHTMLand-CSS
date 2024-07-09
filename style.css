@@ -1,0 +1,23 @@
+select{
+    padding-bottom: 10px; 
+    padding-top: 10px; 
+    padding-left: 0px; 
+    width:  500px;
+    border-radius: 10px; 
+    justify-content: left; 
+    border-color: green;
+    font-size: 20px;
+}
+input{
+    padding-bottom: 10px; 
+    padding-top: 10px;
+    padding-left: 0px; 
+    width:  496px;
+    border-radius: 10px; 
+    justify-content: left; 
+    font-size: 20px;
+    border-color: green;
+}
+button{
+    padding-bottom: 4px; font-size: 20px; padding-top: 4px; border-color: white; color: blue; background-color: rgba(255, 255, 255, 0.882); cursor: pointer;
+}
